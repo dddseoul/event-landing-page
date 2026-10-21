@@ -11,18 +11,6 @@ Developer! Developer! Developer!
 - **장소:** 한국 마이크로소프트 13층
 - **주소:** 서울특별시 종로구 종로1길 50, 더케이트윈타워 A동
 
-## 발표 제안 · CFP
-
-### 당신의 경험이 다음 세션으로.
-
-**CFP 신청하기**
-
-발표 제안(CFP) 신청 페이지가 열렸습니다. 공유하고 싶은 기술과 경험을 제안해 주세요.
-
-모집 기간과 신청 방법은 CFP 페이지에서 확인해 주세요.
-
-CFP신청링크: https://dddseoul.kr/cfp
-
 ## 티켓 신청
 
 화면 우측 또는 아래의 참가신청 버튼을 클릭해 참가 신청을 진행해 주세요.
@@ -74,7 +62,7 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 | ![박결 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-gyeolpark.jpg?v=1) | 박결 | Korea MCT |
 | ![방소현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-sohyunbang.jpg?v=1) | 방소현 | 가비아 |
 | ![손태웅 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taewoongson.jpg?v=1) | 손태웅 | 로켓곰군 |
-| ![송민석 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minseoksong.jpg?v=1) | 송민석 | Microsoft MVP |
+| ![송민석 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minseoksong.jpg?v=1) | 송민석 | Microsoft MVP \| Co-op Translator 메인테이너 |
 | ![유저스틴 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-justinyoo.jpg?v=1) | 유저스틴 | Microsoft |
 | ![전제영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-jeyoungjeon.jpg?v=1) | 전제영 | 현대오토에버 |
 | ![정보현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-bohyunjung.jpg?v=1) | 정보현 | Mongo DB |
@@ -96,12 +84,6 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 주차는 지원하지 않습니다. 대중교통을 이용해 주세요.
 
 입장 방법은 추후 안내합니다.
-
-### 행사 소식
-
-CFP와 프로그램 관련 소식은 추후 안내합니다.
-
-[DDD Seoul 공식 홈페이지](https://dddseoul.kr/)
 
 ## 후원사
 
@@ -146,12 +128,12 @@ Ticketaco's parent container still controls the overall content width and spacin
 Typography uses one 18px base on main; all other font sizes use em. Body copy
 inherits 1em, notices use 0.9em, and small labels use 0.8em. Layout containers
 inherit the base size. The hero title/year, time/KST and venue/floor use sibling
-text spans to avoid multiplying nested font scales. Keep the CFP badge width and
-its adjacent column's reserved space proportional when changing typography.
+text spans to avoid multiplying nested font scales.
 Push new or updated image assets to main before publishing the HTML to Ticketaco.
 images/ also holds a copy of the official logo.
 Keep the copy, dates, venue and status in index.html synchronized with this file.
-When CFP opens, replace its pending status with the real application link.
+The CFP section and the event-news block with the official homepage link are
+intentionally removed from this page.
 Registration uses Ticketaco's own button on the right or below the description;
 do not add a separate ticket button. Expand #keynote and #schedule independently as
 details are confirmed, without replacing the poster hero. Do not invent session times
