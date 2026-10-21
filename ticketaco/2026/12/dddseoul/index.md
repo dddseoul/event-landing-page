@@ -47,11 +47,13 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 
 ## 프로그램
 
-### 키노트 및 세션 발표자
+세션 발표자를 공개합니다. 키노트와 세부 시간표는 추후 공개합니다.
 
-**공개 준비 중**
+### 오프닝 키노트
 
-키노트와 연사, 세션 정보는 추후 공개합니다.
+**연사 공개 예정**
+
+키노트 연사와 세션 정보는 추후 공개합니다.
 
 ### 시간표
 
@@ -59,7 +61,25 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 | --- | --- |
 | 09:00 - 18:00 | DDD Seoul 2026 · 세부 시간표 추후 공개 |
 
-행사 날짜와 장소를 정했습니다. 세부 프로그램을 준비하고 있습니다.
+### 함께 경험을 나눌 15명의 발표자
+
+| 사진 | 이름 | 소속 |
+| --- | --- | --- |
+| ![권수연 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-suyeonkwon.jpg?v=1) | 권수연 | 바이브컴퍼니 |
+| ![김영서 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-youngseokim.jpg?v=1) | 김영서 | 니어브레인 |
+| ![김유석 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-yuseokkim.jpg?v=1) | 김유석 | (주)비락 |
+| ![김인숙 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-insookkim.jpg?v=1) | 김인숙 | 가비아 |
+| ![김평권 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-pyeonggwonkim.jpg?v=1) | 김평권 | 프리랜서 |
+| ![문경필 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-kyungfilmoon.jpg?v=1) | 문경필 | 한독 |
+| ![박결 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-gyeolpark.jpg?v=1) | 박결 | Korea MCT |
+| ![방소현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-sohyunbang.jpg?v=1) | 방소현 | 가비아 |
+| ![손태웅 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taewoongson.jpg?v=1) | 손태웅 | 로켓곰군 |
+| ![송민석 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minseoksong.jpg?v=1) | 송민석 | Microsoft MVP \| Co-op Translator 메인테이너 |
+| ![유저스틴 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-justinyoo.jpg?v=1) | 유저스틴 | Microsoft |
+| ![전제영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-jeyoungjeon.jpg?v=1) | 전제영 | 현대오토에버 |
+| ![정보현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-bohyunjung.jpg?v=1) | 정보현 | Mongo DB |
+| ![정태영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taeyoungjung.jpg?v=1) | 정태영 | 가비아 서비스 기획자 · 점심 메뉴 지도 앱 ‘밥지도’ 운영자 |
+| ![진미나 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minajin.png?v=1) | 진미나 | 메가존클라우드 |
 
 ## 행사 안내
 
@@ -83,13 +103,21 @@ CFP와 프로그램 관련 소식은 추후 안내합니다.
 
 [DDD Seoul 공식 홈페이지](https://dddseoul.kr/)
 
-## 주 후원사
+## 후원사
 
-DDD Seoul 2026과 함께하는 주 후원사입니다.
+DDD Seoul은 후원사의 도움으로 진행합니다. 함께해 주신 모든 후원사에 감사드립니다.
+
+### 주 후원사
 
 [![Microsoft](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-microsoft.png?v=1)](https://www.microsoft.com/ko-kr/)
 
 [![메가존 클라우드](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-megazonecloud.png?v=1)](https://www.megazone.com/)
+
+### 후원사
+
+[![Infragistics](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-infragistics.png?v=1)](https://www.infragistics.co.kr)
+
+[![MongoDB](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-mongodb.png?v=1)](https://www.mongodb.com/ko-kr)
 
 ## 커뮤니티 행동 강령
 
@@ -125,11 +153,18 @@ images/ also holds a copy of the official logo.
 Keep the copy, dates, venue and status in index.html synchronized with this file.
 When CFP opens, replace its pending status with the real application link.
 Registration uses Ticketaco's own button on the right or below the description;
-do not add a separate ticket button. Expand #speakers into keynote/speaker cards and #schedule into chronological
-rows without replacing the poster hero. Do not invent session times or speakers.
+do not add a separate ticket button. Expand #keynote and #schedule independently as
+details are confirmed, without replacing the poster hero. Do not invent session times
+or speakers. #speakers lists only each speaker's photo, name and affiliation from
+https://dddseoul.kr/speakers/{slug}, without links. Its list items use container-based
+widths for 5, 3 and 2 columns; keep the 1px slack in each formula.
 Image sources:
 https://dddseoul.kr/images/logo-dddseoul-whiteorange.png
 https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/sponsor-microsoft-cropped.png
 https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/sponsor-megazonecloud.png
 https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/map.webp
+https://dddseoul.kr/images/sponsors/infragistics.svg (rendered to sponsor-infragistics.png)
+https://dddseoul.kr/images/sponsors/mongodb.svg (rendered to sponsor-mongodb.png)
+https://dddseoul.kr/images/speakers/{slug}.jpg (saved as speaker-{slug}.jpg)
+https://dddseoul.kr/images/organisers/minajin.png (saved as speaker-minajin.png)
 -->
