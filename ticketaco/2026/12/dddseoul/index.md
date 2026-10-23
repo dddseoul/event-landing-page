@@ -65,8 +65,8 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 | ![송민석 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minseoksong.jpg?v=1) | 송민석 | Microsoft MVP \| Co-op Translator 메인테이너 |
 | ![유저스틴 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-justinyoo.jpg?v=1) | 유저스틴 | Microsoft |
 | ![전제영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-jeyoungjeon.jpg?v=1) | 전제영 | 현대오토에버 |
-| ![정보현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-bohyunjung.jpg?v=1) | 정보현 | Mongo DB |
-| ![정태영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taeyoungjung.jpg?v=1) | 정태영 | 가비아 \| 점심 메뉴 지도 앱 ‘밥지도’ 운영자 |
+| ![정보현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-bohyunjung.jpg?v=1) | 정보현 | MongoDB |
+| ![정태영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taeyoungjung.jpg?v=1) | 정태영 | 가비아 |
 | ![진미나 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minajin.png?v=1) | 진미나 | 메가존클라우드 |
 
 ## 행사 안내
