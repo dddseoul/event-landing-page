@@ -61,7 +61,7 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 | ![문경필 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-kyungfilmoon.jpg?v=1) | 문경필 | 한독 |
 | ![박결 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-gyeolpark.jpg?v=1) | 박결 | Korea MCT |
 | ![방소현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-sohyunbang.jpg?v=1) | 방소현 | 가비아 |
-| ![손태웅 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taewoongson.jpg?v=1) | 손태웅 | 로켓곰군 |
+| ![손태웅 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taewoongson.jpg?v=3) | 손태웅 | 프리랜서 |
 | ![송민석 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minseoksong.jpg?v=1) | 송민석 | Microsoft MVP \| Co-op Translator 메인테이너 |
 | ![유저스틴 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-justinyoo.jpg?v=1) | 유저스틴 | Microsoft |
 | ![전제영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-jeyoungjeon.jpg?v=1) | 전제영 | 현대오토에버 |
