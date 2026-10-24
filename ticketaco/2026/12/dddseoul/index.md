@@ -59,9 +59,9 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 | ![김인숙 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-insookkim.jpg?v=1) | 김인숙 | 가비아 |
 | ![김평권 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-pyeonggwonkim.jpg?v=1) | 김평권 | 프리랜서 |
 | ![문경필 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-kyungfilmoon.jpg?v=1) | 문경필 | 한독 |
-| ![박결 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-gyeolpark.jpg?v=1) | 박결 | Korea MCT |
+| ![박결 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-gyeolpark.jpg?v=1) | 박결 | 티오드랩 |
 | ![방소현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-sohyunbang.jpg?v=1) | 방소현 | 가비아 |
-| ![손태웅 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taewoongson.jpg?v=3) | 손태웅 | 프리랜서 |
+| ![손태웅 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-taewoongson-square.jpg?v=1) | 손태웅 | 프리랜서 |
 | ![송민석 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-minseoksong.jpg?v=1) | 송민석 | Microsoft MVP \| Co-op Translator 메인테이너 |
 | ![유저스틴 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-justinyoo.jpg?v=1) | 유저스틴 | Microsoft |
 | ![전제영 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-jeyoungjeon.jpg?v=1) | 전제영 | 현대오토에버 |
@@ -148,5 +148,8 @@ https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-s
 https://dddseoul.kr/images/sponsors/infragistics.svg (rendered to sponsor-infragistics.png)
 https://dddseoul.kr/images/sponsors/mongodb.svg (rendered to sponsor-mongodb.png)
 https://dddseoul.kr/images/speakers/{slug}.jpg (saved as speaker-{slug}.jpg)
+speaker-taewoongson-square.jpg is a 1500x1500 top-aligned crop of
+speaker-taewoongson.jpg; keep the original. Ticketaco strips object-position,
+so the published portrait uses this square asset with height: auto.
 https://dddseoul.kr/images/organisers/minajin.png (saved as speaker-minajin.png)
 -->
