@@ -35,13 +35,29 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 
 ## 프로그램
 
-세션 발표자를 공개합니다. 키노트와 세부 시간표는 추후 공개합니다.
+오프닝 키노트와 세션 발표자를 소개합니다. 세부 시간표는 추후 공개합니다.
 
 ### 오프닝 키노트
 
-**연사 공개 예정**
+DDD Seoul 2026의 문을 여는 오프닝 키노트를 소개합니다.
 
-키노트 연사와 세션 정보는 추후 공개합니다.
+#### 이영빈 · GM TCK
+
+![이영빈 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-youngbinlee.jpg?v=1)
+
+자동차 엔지니어링 현장에서 GitHub Copilot과 AI 에이전트를 도입하며 조직의 AI 혁신을 이끌고 있습니다.
+
+키노트 주제는 곧 공개합니다.
+
+#### 남정현 · 메가존클라우드
+
+![남정현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-junghyunnam.jpg?v=1)
+
+메가존클라우드 Azure Presales 팀에서 Copilot Studio를 중심으로 Microsoft AI 제품의 기술 검증과 현장 적용을 지원합니다.
+
+**AI가 거울에 보이는 것보다 가까이 있음**
+
+AI 시대에 개발자와 소프트웨어의 가치를 돌아보고, 개발자의 역할이 어떻게 달라지는지 이야기합니다.
 
 ### 시간표
 
