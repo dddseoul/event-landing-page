@@ -45,19 +45,21 @@ DDD Seoul 2026의 문을 여는 오프닝 키노트를 소개합니다.
 
 ![이영빈 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-youngbinlee.jpg?v=1)
 
-전통적인 제조업 현장인 자동차 엔지니어링 연구소에서 AI 혁신을 이끌고 있습니다. 비개발자의 시선으로 GitHub Copilot과 AI 에이전트를 도입하고, 조직 내 자생적인 러닝 루프를 설계하며 부딪히고 확장해 나갑니다. 결코 만만치 않은 조직의 AX. 하지만 진짜 문제를 쥔 도메인 전문가들이 소프트웨어로 답을 찾아가는 그 치열한 과정을 함께 만들어가고 있습니다.
+자동차 엔지니어링 연구소에서 GitHub Copilot과 AI 에이전트를 도입하고, 조직 내 자생적인 러닝 루프를 설계하며 AI 혁신을 이끌고 있습니다.
 
 **09:30–10:10 · 오프닝 키노트 1**
 
 **비개발자가 GitHub Copilot으로 코드가 아닌 '진짜 문제'를 푸는 실전 AX**
 
-코드를 쓸일 없던 자동차 엔지니어링 연구소 팀장이 VS Code와 GitHub Copilot으로 팀 AI 비서 'Sean'을 만들어 10개월째 함께 일하고 있습니다. 새 서버 없이 instructions, prompts, skills와 SharePoint 동기화 폴더만으로 팀 전원이 쓰는 비서를 만든 과정을 나눕니다. 옆 팀에 같은 비서를 만들어 주려다 실패하며 배운 것과, 도구가 계속 바뀌는 시대에 오래 남는 것이 무엇인지도 이야기합니다.
+코드를 쓸일 없던 자동차 엔지니어링 연구소 팀장이 VS Code와 GitHub Copilot으로 팀 AI 비서 'Sean'을 만들어 10개월째 함께 일하고 있습니다. 새 서버 없이 instructions, prompts, skills와 SharePoint 동기화 폴더만으로 팀 전원이 쓰는 비서를 만든 과정, 옆 팀에 같은 비서를 만들어 주려다 실패하며 배운 점, 도구가 계속 바뀌는 시대에 오래 남는 것을 이야기합니다.
 
 #### 남정현 · 메가존클라우드
 
 ![남정현 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-junghyunnam.jpg?v=1)
 
 메가존클라우드 Azure Presales 팀에서 Copilot Studio를 중심으로 Microsoft AI 제품의 기술 검증과 현장 적용을 지원합니다.
+
+**10:20–11:00 · 오프닝 키노트 2**
 
 **AI가 거울에 보이는 것보다 가까이 있음**
 
