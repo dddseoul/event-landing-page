@@ -123,6 +123,10 @@ DDD Seoul은 후원사의 도움으로 진행합니다. 함께해 주신 모든 
 
 [![MongoDB](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-mongodb.png?v=1)](https://www.mongodb.com/ko-kr)
 
+### 도서 후원사
+
+[![한빛미디어](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-hanbitmedia.png?v=1)](https://www.hanbit.co.kr/)
+
 ## 커뮤니티 행동 강령
 
 모든 참가자, 발표자, 운영진이 서로 존중하는 행사를 함께 만듭니다.
