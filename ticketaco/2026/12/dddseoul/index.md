@@ -45,7 +45,7 @@ DDD Seoul 2026의 문을 여는 오프닝 키노트를 소개합니다.
 
 ![이영빈 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-youngbinlee.jpg?v=1)
 
-자동차 엔지니어링 연구소에서 GitHub Copilot과 AI 에이전트를 도입하고, 조직 내 자생적인 러닝 루프를 설계하며 AI 혁신을 이끌고 있습니다.
+자동차 엔지니어링 연구소에서 GitHub Copilot과 AI 에이전트를 도입하고, 조직의 자생적 러닝 루프를 설계합니다.
 
 **09:30–10:10 · 오프닝 키노트 1**
 
