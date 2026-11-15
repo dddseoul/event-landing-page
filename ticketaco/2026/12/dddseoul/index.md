@@ -35,7 +35,7 @@ DDD(Developer! Developer! Developer!)는 Microsoft 기술을 중심으로 하는
 
 ## 프로그램
 
-오프닝 키노트와 세션 발표자를 소개합니다. [세부 시간표는 공식 사이트에서 확인해 주세요.](https://dddseoul.kr/#schedule)
+오프닝 키노트와 세션 발표자를 소개합니다.
 
 ### 오프닝 키노트
 
@@ -45,13 +45,13 @@ DDD Seoul 2026의 문을 여는 오프닝 키노트를 소개합니다.
 
 ![이영빈 발표자 사진](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/speaker-youngbinlee.jpg?v=1)
 
-자동차 엔지니어링 연구소에서 GitHub Copilot과 AI 에이전트를 도입하고, 조직 내 자생적인 러닝 루프를 설계하며 AI 혁신을 이끌고 있습니다.
+자동차 엔지니어링 연구소에서 GitHub Copilot과 AI 에이전트를 도입하고, 조직의 자생적 러닝 루프를 설계합니다.
 
 **09:30–10:10 · 오프닝 키노트 1**
 
 **비개발자가 GitHub Copilot으로 코드가 아닌 '진짜 문제'를 푸는 실전 AX**
 
-코드를 쓸일 없던 자동차 엔지니어링 연구소 팀장이 VS Code와 GitHub Copilot으로 팀 AI 비서 'Sean'을 만들어 10개월째 함께 일하고 있습니다. 새 서버 없이 instructions, prompts, skills와 SharePoint 동기화 폴더만으로 팀 전원이 쓰는 비서를 만든 과정, 옆 팀에 같은 비서를 만들어 주려다 실패하며 배운 점, 도구가 계속 바뀌는 시대에 오래 남는 것을 이야기합니다.
+자동차 엔지니어링 연구소 팀장이 VS Code와 GitHub Copilot으로 팀 AI 비서 'Sean'을 만들고 조직에 확산하며 얻은 경험과, 도구가 바뀌어도 남는 가치를 이야기합니다.
 
 #### 남정현 · 메가존클라우드
 
@@ -67,9 +67,21 @@ AI 시대에 개발자와 소프트웨어의 가치를 돌아보고, 개발자�
 
 ### 시간표
 
-| 시간 | 내용 |
-| --- | --- |
-| 09:00 - 18:00 | DDD Seoul 2026 · [세부 시간표는 공식 사이트에서 확인해 주세요.](https://dddseoul.kr/#schedule) |
+<table>
+    <thead>
+        <tr><th>시간</th><th>트랙 A(제주)</th><th>트랙 B(동해/독도)</th></tr>
+    </thead>
+    <tbody>
+        <tr><th>09:00</th><td colspan="2">체크인</td></tr>
+        <tr><th>09:30</th><td colspan="2">오프닝 키노트</td></tr>
+        <tr><th>11:00</th><td>브레이크아웃 세션</td><td>브레이크아웃 세션</td></tr>
+        <tr><th>12:50</th><td colspan="2">점심 식사</td></tr>
+        <tr><th>13:50</th><td>브레이크아웃 세션</td><td>브레이크아웃 세션</td></tr>
+        <tr><th>17:50</th><td colspan="2">경품 추첨 및 클로징</td></tr>
+    </tbody>
+</table>
+
+[세부 시간표는 공식 사이트에서 확인해 주세요.](https://dddseoul.kr/#schedule)
 
 ### 함께 경험을 나눌 15명의 발표자
 
@@ -122,6 +134,10 @@ DDD Seoul은 후원사의 도움으로 진행합니다. 함께해 주신 모든 
 [![Infragistics](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-infragistics.png?v=1)](https://www.infragistics.co.kr)
 
 [![MongoDB](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-mongodb.png?v=1)](https://www.mongodb.com/ko-kr)
+
+### 도서 후원사
+
+[![한빛미디어](https://raw.githubusercontent.com/dddseoul/event-landing-page/refs/heads/main/ticketaco/2026/12/dddseoul/images/sponsor-hanbitmedia.png?v=1)](https://www.hanbit.co.kr/)
 
 ## 커뮤니티 행동 강령
 
